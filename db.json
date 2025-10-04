@@ -1,0 +1,256 @@
+{
+  "sites": [
+    {
+      "id": "2670b38f-080b-42c8-aebf-c1ff801c047d",
+      "siteInfo": {
+        "Website URL": "https://example.com",
+        "Client Name": "Client ABC",
+        "Audit Date": "2025-10-04"
+      },
+      "performance": {
+        "Mobile Speed": 65,
+        "Desktop Speed": 100
+      },
+      "issues": [
+        {
+          "Issue": "Slow Server Response",
+          "Priority": "High",
+          "Description": "Server response time is 2.5s",
+          "Recommendation": "Upgrade hosting or optimize backend code"
+        },
+        {
+          "Issue": "Large Images",
+          "Priority": "Medium",
+          "Description": "Images are not optimized, average size 2MB",
+          "Recommendation": "Compress images to WebP format and use responsive images"
+        },
+        {
+          "Issue": "Missing Alt Tags",
+          "Priority": "Low",
+          "Description": "15 images missing alt attributes",
+          "Recommendation": "Add descriptive alt text to all images for accessibility"
+        },
+        {
+          "Issue": "Render-Blocking Resources",
+          "Priority": "High",
+          "Description": "CSS and JS files blocking initial page render",
+          "Recommendation": "Defer non-critical resources and inline critical CSS"
+        },
+        {
+          "Issue": "No Browser Caching",
+          "Priority": "Medium",
+          "Description": "Cache headers not configured properly",
+          "Recommendation": "Set cache-control headers for static assets"
+        },
+        {
+          "Issue": "Mobile Responsiveness",
+          "Priority": "High",
+          "Description": "Layout breaks on screens below 768px",
+          "Recommendation": "Implement mobile-first responsive design"
+        },
+        {
+          "Issue": "Unminified CSS/JS",
+          "Priority": "Low",
+          "Description": "CSS and JS files are not minified",
+          "Recommendation": "Minify all CSS and JavaScript files"
+        },
+        {
+          "Issue": "Too Many HTTP Requests",
+          "Priority": "Medium",
+          "Description": "85 HTTP requests on homepage",
+          "Recommendation": "Combine files and use sprite sheets for images"
+        }
+      ],
+      "createdAt": "2025-10-04T18:33:30.286Z"
+    },
+    {
+      "id": "a5176566-ef27-4fcf-ad53-f172a7c78ed5",
+      "siteInfo": {
+        "Website URL": "https://example.com",
+        "Client Name": "Client ABC",
+        "Audit Date": "2025-10-04"
+      },
+      "performance": {
+        "Mobile Speed": 65,
+        "Desktop Speed": 100
+      },
+      "issues": [
+        {
+          "Issue": "Slow Server Response",
+          "Priority": "High",
+          "Description": "Server response time is 2.5s",
+          "Recommendation": "Upgrade hosting or optimize backend code"
+        },
+        {
+          "Issue": "Large Images",
+          "Priority": "Medium",
+          "Description": "Images are not optimized, average size 2MB",
+          "Recommendation": "Compress images to WebP format and use responsive images"
+        },
+        {
+          "Issue": "Missing Alt Tags",
+          "Priority": "Low",
+          "Description": "15 images missing alt attributes",
+          "Recommendation": "Add descriptive alt text to all images for accessibility"
+        },
+        {
+          "Issue": "Render-Blocking Resources",
+          "Priority": "High",
+          "Description": "CSS and JS files blocking initial page render",
+          "Recommendation": "Defer non-critical resources and inline critical CSS"
+        },
+        {
+          "Issue": "No Browser Caching",
+          "Priority": "Medium",
+          "Description": "Cache headers not configured properly",
+          "Recommendation": "Set cache-control headers for static assets"
+        },
+        {
+          "Issue": "Mobile Responsiveness",
+          "Priority": "High",
+          "Description": "Layout breaks on screens below 768px",
+          "Recommendation": "Implement mobile-first responsive design"
+        },
+        {
+          "Issue": "Unminified CSS/JS",
+          "Priority": "Low",
+          "Description": "CSS and JS files are not minified",
+          "Recommendation": "Minify all CSS and JavaScript files"
+        },
+        {
+          "Issue": "Too Many HTTP Requests",
+          "Priority": "Medium",
+          "Description": "85 HTTP requests on homepage",
+          "Recommendation": "Combine files and use sprite sheets for images"
+        }
+      ],
+      "createdAt": "2025-10-04T18:34:42.965Z"
+    },
+    {
+      "id": "b6f5b722-7102-4638-a0ec-055fedd91ae0",
+      "siteInfo": {
+        "Website URL": "https://example.com",
+        "Client Name": "Client ABC",
+        "Audit Date": "2025-10-04"
+      },
+      "performance": {
+        "Mobile Speed": 65,
+        "Desktop Speed": 100
+      },
+      "issues": [
+        {
+          "Issue": "Slow Server Response",
+          "Priority": "High",
+          "Description": "Server response time is 2.5s",
+          "Recommendation": "Upgrade hosting or optimize backend code"
+        },
+        {
+          "Issue": "Large Images",
+          "Priority": "Medium",
+          "Description": "Images are not optimized, average size 2MB",
+          "Recommendation": "Compress images to WebP format and use responsive images"
+        },
+        {
+          "Issue": "Missing Alt Tags",
+          "Priority": "Low",
+          "Description": "15 images missing alt attributes",
+          "Recommendation": "Add descriptive alt text to all images for accessibility"
+        },
+        {
+          "Issue": "Render-Blocking Resources",
+          "Priority": "High",
+          "Description": "CSS and JS files blocking initial page render",
+          "Recommendation": "Defer non-critical resources and inline critical CSS"
+        },
+        {
+          "Issue": "No Browser Caching",
+          "Priority": "Medium",
+          "Description": "Cache headers not configured properly",
+          "Recommendation": "Set cache-control headers for static assets"
+        },
+        {
+          "Issue": "Mobile Responsiveness",
+          "Priority": "High",
+          "Description": "Layout breaks on screens below 768px",
+          "Recommendation": "Implement mobile-first responsive design"
+        },
+        {
+          "Issue": "Unminified CSS/JS",
+          "Priority": "Low",
+          "Description": "CSS and JS files are not minified",
+          "Recommendation": "Minify all CSS and JavaScript files"
+        },
+        {
+          "Issue": "Too Many HTTP Requests",
+          "Priority": "Medium",
+          "Description": "85 HTTP requests on homepage",
+          "Recommendation": "Combine files and use sprite sheets for images"
+        }
+      ],
+      "createdAt": "2025-10-04T19:04:45.164Z"
+    },
+    {
+      "id": "7bc33e43-c0b2-40fa-8606-c41e501f625f",
+      "siteInfo": {
+        "Website URL": "https://example.com",
+        "Client Name": "Client ABC",
+        "Audit Date": "2025-10-04"
+      },
+      "performance": {
+        "Mobile Speed": 65,
+        "Desktop Speed": 100
+      },
+      "issues": [
+        {
+          "Issue": "Slow Server Response",
+          "Priority": "High",
+          "Description": "Server response time is 2.5s",
+          "Recommendation": "Upgrade hosting or optimize backend code"
+        },
+        {
+          "Issue": "Large Images",
+          "Priority": "Medium",
+          "Description": "Images are not optimized, average size 2MB",
+          "Recommendation": "Compress images to WebP format and use responsive images"
+        },
+        {
+          "Issue": "Missing Alt Tags",
+          "Priority": "Low",
+          "Description": "15 images missing alt attributes",
+          "Recommendation": "Add descriptive alt text to all images for accessibility"
+        },
+        {
+          "Issue": "Render-Blocking Resources",
+          "Priority": "High",
+          "Description": "CSS and JS files blocking initial page render",
+          "Recommendation": "Defer non-critical resources and inline critical CSS"
+        },
+        {
+          "Issue": "No Browser Caching",
+          "Priority": "Medium",
+          "Description": "Cache headers not configured properly",
+          "Recommendation": "Set cache-control headers for static assets"
+        },
+        {
+          "Issue": "Mobile Responsiveness",
+          "Priority": "High",
+          "Description": "Layout breaks on screens below 768px",
+          "Recommendation": "Implement mobile-first responsive design"
+        },
+        {
+          "Issue": "Unminified CSS/JS",
+          "Priority": "Low",
+          "Description": "CSS and JS files are not minified",
+          "Recommendation": "Minify all CSS and JavaScript files"
+        },
+        {
+          "Issue": "Too Many HTTP Requests",
+          "Priority": "Medium",
+          "Description": "85 HTTP requests on homepage",
+          "Recommendation": "Combine files and use sprite sheets for images"
+        }
+      ],
+      "createdAt": "2025-10-04T19:06:18.544Z"
+    }
+  ]
+}
